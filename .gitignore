@@ -1,0 +1,26 @@
+# Node Modules
+node_modules/
+
+# Environment files
+.env
+
+# Terraform
+terraform/.terraform/
+terraform/.terraform.lock.hcl
+terraform/*.tfstate
+terraform/*.tfstate.backup
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Coverage
+coverage/
+
+# Docker
+*.tar

@@ -1,0 +1,12 @@
+{
+  "name": "ecs-terraform-demo",
+  "version": "1.0.0",
+  "description": "Simple Express application for ECS deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
