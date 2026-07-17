@@ -6,6 +6,9 @@ This project demonstrates a complete end-to-end automated deployment pipeline fo
 
 The project provisions AWS Elastic Container Registry (ECR) and AWS Elastic Container Service (ECS) infrastructure, builds and pushes Docker images automatically, and deploys the latest application version without manual intervention.
 
+## Live Demo
+
+👉 https://drive.google.com/file/d/12hFDSV3dIDo7DSKVTboByO1kLz9afb19/view?usp=sharing
 
 ## Architecture
 
